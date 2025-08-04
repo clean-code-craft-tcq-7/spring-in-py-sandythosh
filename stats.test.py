@@ -1,5 +1,5 @@
 import unittest
-import statistics
+import stats as statistics
 
 
 class StatsTest(unittest.TestCase):
